@@ -9,14 +9,16 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Easily manage affiliate links with clean slugs like /go/your-link, track link clicks with reports and charts, and insert links via shortcode or Gutenberg block. Lightweight, fast, and beginner-friendly.
 
-## 📦 Download
-👉 [Click here to download the latest version](https://github.com/masud-web/affiliate-link-manager-lite/releases/latest)
+## 📦 Download Plugin
+
+👉 **[Download Latest Version](https://github.com/masudulalam/affiliate-link-manager-lite/releases/latest)**  
+Compatible with WordPress 5.0+ | GPLv2 Licensed | Lightweight | Gutenberg Supported
 
 == Description ==
 
 **Affiliate Link Manager Lite** helps you create, organize, and track affiliate links on your WordPress site with clean and SEO-friendly URLs. Monitor link clicks with beautiful charts and view daily, weekly, monthly, or all-time stats. Whether you’re a blogger or a marketer, this plugin makes affiliate link management simple.
 
-**Core Features:**
+## Core Features
 
 - 🔗 Create clean affiliate URLs like `/go/amazon-deal`
 - 📈 Track clicks with beautiful charts (Chart.js powered)
