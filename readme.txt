@@ -20,14 +20,14 @@ Compatible with WordPress 5.0+ | GPLv2 Licensed | Lightweight | Gutenberg Suppor
 
 ## Core Features
 
-- 🔗 Create clean affiliate URLs like `/go/amazon-deal`
-- 📈 Track clicks with beautiful charts (Chart.js powered)
-- 📊 View reports by Day, Week, Month, Year, or All Time
-- 🧩 Gutenberg block to insert affiliate links in editor
-- 🔍 Shortcode support: `[afflink slug="your-link"]`
-- 📝 Add internal notes/labels for each link
-- ⚡ Super lightweight and fast
-- 🔐 No third-party dependency or tracking
+- Create clean affiliate URLs like `/go/amazon-deal`
+- Track clicks with beautiful charts (Chart.js powered)
+- View reports by Day, Week, Month, Year, or All Time
+- Gutenberg block to insert affiliate links in editor
+- Shortcode support: `[afflink slug="your-link"]`
+- Add internal notes/labels for each link
+- Super lightweight and fast
+- No third-party dependency or tracking
 
 == Installation ==
 
